@@ -11,7 +11,7 @@
 ### Com 2 asteriscos ele procura em diretórios e em subdiretórios
 - **arquivos
 
-## cComandos git
+## Comandos git
 
 - Sempre que criar um repositório tem que colocar nome e email.
 
